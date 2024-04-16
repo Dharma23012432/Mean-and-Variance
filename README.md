@@ -73,7 +73,7 @@ SD=np.sqrt(var)
 print("The Mean arrival rate is %.3f "%mean)
 print("The Variance of arrival from feeder is %.3f "%var)
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
-
+```
 
 # Output : 
 ![Screenshot 2024-04-16 131447](https://github.com/Dharma23012432/Mean-and-Variance/assets/152275002/db92fb58-a5d6-44ff-96dc-9aee1538fb90)
